@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = alexis.quesney@gmail.com
+	email = alexis.quesney@ecota.co
 	name = Alexis Quesney
